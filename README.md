@@ -1,5 +1,5 @@
 <h1>
-  Data Visualization &bullet; 2021
+  Data Visualization &bullet; 2022
   <small>
     <br/>
     MSc Finance & Big Data
