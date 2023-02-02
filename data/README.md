@@ -1,5 +1,5 @@
 <h1>
-  Data Visualization &bullet; 2021
+  Data Visualization &bullet; 2023
   <small>
     <br/>
     MSc Finance & Big Data
@@ -7,4 +7,4 @@
   </small>
 </h1>
 
-Data files for our 2nd session.
+Data files for our 3rd session.
